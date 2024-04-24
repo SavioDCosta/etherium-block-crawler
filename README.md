@@ -41,7 +41,7 @@ python block_crawler.py <RPC endpoint> <DB path> <block range>
 
 **<RPC endpoint>:** Your Ethereum JSON-RPC endpoint URL.
 **<DB path>:** Path to your SQLite database file, e.g., ./transactions.db.
-**<block range>:++ The range of blocks to fetch, formatted as start-end, e.g., 18908800-18909050.
+**<block range>:** The range of blocks to fetch, formatted as start-end, e.g., 18908800-18909050.
 
 ## Output
 
